@@ -1,1 +1,8 @@
-/dbdata
+/dbdata/auto.cnf
+/dbdata/ibdata1
+/dbdata/ib_logfile1
+/dbdata/performance_schema
+/dbdata/bookedscheduler
+/dbdata/ib_logfile0
+/dbdata/mysql
+/dbdata/README.md
